@@ -4,7 +4,7 @@ Amazon Clone -
 
 A simple Amazon homepage clone built using HTML and CSS. The project replicates the basic structure and styling of Amazon’s homepage, focusing on layout, design, and responsiveness.
 
-Feature - 
+Featur - 
 
 Responsive homepage layout
 
